@@ -8,13 +8,14 @@ On this page you will find the assignments for the Image Processing PS.
 
 ### News / Important notes
 
+- Update: Group size increased to max. 4 (Oct. 3, 2022)
 - Attendance in the PS is mandatory
 
 
 
 ### Groups
 
-All assignments have to be solved in **groups of three**. Once you found your group members, one of the members should drop me an [email}(dsoellinger@cs.sbg.ac.at) stateing the members of his/her group.
+All assignments have to be solved in **groups of max. 4**. Once you found your group members, one of the members should drop me an [email}(dsoellinger@cs.sbg.ac.at) stateing the members of his/her group.
 
 **Deadline**: Oct. 10, 2022
 
