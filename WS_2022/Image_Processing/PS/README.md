@@ -37,6 +37,7 @@ Each exercise sheet needs to be handed-in in the form of a Jupyter notebook. Han
 The filename of the notebook needs to have the following format: ``GROUPNAME_ExSheet_X.ipynb``
 
 
+
 ### Exercise sheets
 
-- No exercises available yet
+- Setup your working environment (see [tutorial](installation_instructions.md)) --- **Deadline:** Oct. 10 (09:00)  / Not graded
