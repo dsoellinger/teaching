@@ -8,7 +8,7 @@ To goal of this exercise is to get familiar with different color models and how 
 
 - Choose an arbitrary RGB image, load the image (e.g. using PIL) and visualize the image using Matplotlib
 
-- Convert the image to the HSV color space and modify (increase / decrease) it's channels. How does changing the different channels affect the resulting image?
+- Convert the image to the HSV color space and modify (increase / decrease) its channels. How does changing the different channels affect the resulting image?
 
 - How do you convert the RGB image to a grayscale image?
 
