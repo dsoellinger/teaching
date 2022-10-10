@@ -41,4 +41,4 @@ The filename of the notebook needs to have the following format: `ExSheet_X.ipyn
 ### Exercise sheets
 
 - Setup your working environment (see [tutorial](install_instructions.md)) --- **Deadline:** Oct. 10 (09:00)  / Not graded
-- (Assignment 1)[Assignment_1/Exercise_Sheet_1.md] --- **Deadline:** Oct. 17 (08:00)
+- [Assignment 1](Assignment_1/Exercise_Sheet_1.md) --- **Deadline:** Oct. 17 (08:00)
