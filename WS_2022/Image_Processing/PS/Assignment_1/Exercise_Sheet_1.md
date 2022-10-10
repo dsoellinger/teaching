@@ -43,7 +43,7 @@ def connected_components(mat, connectivity='4'):
 
 ## Exercise 1.3 (5 points)
 
-A *Laplacian pyramid* is a hierarchical multi-scale representation of an image that saves the difference image between the a smooth and non-smooth versions of the image at different scales. Smoothing (Blurring) is achieved by means of a Gaussian filter. A more detailed explanation of how Laplacian pyramids are constructed can be found (here)[http://sepwww.stanford.edu/data/media/public/sep/morgan/texturematch/paper_html/node3.html]
+A *Laplacian pyramid* is a hierarchical multi-scale representation of an image that saves the difference image between the a smooth and non-smooth versions of the image at different scales. Smoothing (Blurring) is achieved by means of a Gaussian filter. A more detailed explanation of how Laplacian pyramids are constructed can be found [here](http://sepwww.stanford.edu/data/media/public/sep/morgan/texturematch/paper_html/node3.html)
 
 In this exercise you should implement a function (function signature below) that generates the N-level Laplacian pyramid for a given RGB image. For instance, you can use the `lena.png` image provided in the repository. Implement it yourself (don't use functions such as `skimage.transform.pyramid_gaussian`). What would be a good choice for sigma and the corresponding kernel size?  How many levels can our pyramid have?
 
