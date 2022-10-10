@@ -40,4 +40,4 @@ The filename of the notebook needs to have the following format: ``GROUPNAME_ExS
 
 ### Exercise sheets
 
-- Setup your working environment (see [tutorial](installation_instructions.md)) --- **Deadline:** Oct. 10 (09:00)  / Not graded
+- Setup your working environment (see [tutorial](install_instructions.md)) --- **Deadline:** Oct. 10 (09:00)  / Not graded
