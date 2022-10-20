@@ -34,8 +34,9 @@ Grading is based on the assignments. For a positive grade, you need to have more
 Assignments have to be uploaded in [Blackboard](https://elearn.sbg.ac.at/ultra) until specified deadline. More details will be provided once the groups have been defined.
 
 Each exercise sheet needs to be handed-in in the form of a Jupyter notebook. Hand in the notebook, even if you do not complete all exercises.
-The filename of the notebook needs to have the following format: `ExSheet_X.ipynb` or `ExSheet_X.zip` (depending on whether additional resources (are required so that I can run your code).
+The filename of the notebook needs to have the following format: `ExSheet_X.ipynb` or `ExSheet_X.zip` (depending on whether additional resources are required for me to be able to run your code --- e.g., the images you used for testing your code).
 
+Please also name the group members in the submitted notebook.
 
 
 ### Exercise sheets
