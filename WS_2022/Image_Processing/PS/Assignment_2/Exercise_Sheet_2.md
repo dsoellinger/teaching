@@ -1,3 +1,6 @@
+## Important notice
+- Please mention the names of all group members in the submitted notebook. 
+
 
 ## Exercise 2.1 (3 points)
 
@@ -55,7 +58,7 @@ $$\hat{I}[x,y] = I \otimes F = \sum_{m=0}^{M-1}\sum_{n=0}^{N-1} F[m,n] \cdot I[x
 
 
 
-- **Task 1: **Correlate the kernel *F* with the matrix *I*. How does the resulting matrix look like?
+- **Task 1:** Correlate the kernel *F* with the matrix *I*. How does the resulting matrix look like?
 
 - Input padding is a way to control the size of the output matrix. To pad the input matrix *I*, you simply add values around the input matrix. The exact choice of these values is highly application dependent. However, the simplest form of padding is obviously to pad the input matrix with a constant value *c*.
 
@@ -71,9 +74,9 @@ $$\hat{I}[x,y] = I \otimes F = \sum_{m=0}^{M-1}\sum_{n=0}^{N-1} F[m,n] \cdot I[x
 
 As we now understand how to correlate two matrices, we can apply this knowledge to a real image. In this exercise you will blur (a.k.a. smooth) a grayscale image by means of the correlation operation. The goal is to understand how the parameters (weight, size) of the kernel influence the "blur".
 
-You are free to choose the grayscale image, but provide the image when you submit the assignment.
+You are free to choose the grayscale image, but provide the image when you submit the assignment so I can run your code.
 
-- **Task 1: ** Implement a function `mean_filter_kernel` that returns a kernel which returns the mean value of an images' local neighborhood, if you correlate the image with the kernel.
+- **Task 1:** Implement a function `mean_filter_kernel` that returns a kernel which returns the mean value of an images' local neighborhood, if you correlate the image with the kernel.
 
   ````python
   def mean_filer_kernel(kernel_size):
