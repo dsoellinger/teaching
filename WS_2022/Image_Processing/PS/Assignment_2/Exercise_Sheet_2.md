@@ -31,7 +31,7 @@ You are given the binary map shown below. Create a [Freeman Chain Code](https://
 
 ## Exercise 2.2 (3 points)
 
-The goal of this exercise is to get familiar with the **(cross)-correlation operation** $\otimes$ applied to 2D matrices.
+The goal of this exercise is to get familiar with the **correlation operation** $\otimes$ applied to 2D matrices.
 
 You are given the matrix $I$ and the kernel $F$ shown below.
 
