@@ -6,7 +6,7 @@
 
 
 
-The goal of this exercise is to get familiar with **padding** and the **convolution operation**  $\star$ applied to 2D matrices.
+The goal of this exercise is to get familiar with **padding** and the **convolution operation** $\star$ applied to 2D matrices.
 
 All calculation needed should be done by hand. If not otherwise stated, no input padding is required.
 
@@ -29,13 +29,13 @@ $$F = \begin{bmatrix}
 
 
 
-- **Task 1:** Convolve the kernel $F$ with the matrix $I$.  How does the resulting matrix look like?
+- **Task 1:** Convolve the the matrix $I$ with the kernel $F$.  How does the resulting matrix look like?
 
-- **Task 2:** Convolve the kernel $I$ with the matrix $F$.  Does the matrix look the same as in Task 1?
+- **Task 2:** Zero-Pad the matrix $I$ using a padding factor of 2 and convolve $I$ with $F$ using a **stride of 2**.
 
-- **Task 3:** Flip/mirror the kernel $F$ and correlate $I$ with $F$. Verify that you again get the same output.
+- **Task 3:** Flip/mirror the kernel $F$ and correlate $I$ with $F$. Verify that you again get the same output as in Task 1.
 
-- **Task 4:** Flip/mirror the matrix $I$ and correlate $I$ with $F$. Do we still get the same result?
+- **Task 4:** Flip/mirror the matrix $I$ and correlate $I$ with $F$ . Do we still get the same result?
 
 - **Task 5:** Apply circular padding to the kernel $F$ using a padding "factor" of 2. How does the padded matrix look like?
 

@@ -45,3 +45,4 @@ Please also name the group members in the submitted notebook.
 - [Assignment 1](Assignment_1/Exercise_Sheet_1.md) --- **Deadline:** Oct. 17 (08:00)
 - [Assignment 2](Assignment_2/Exercise_Sheet_2.md) --- **Deadline:** Oct. 24 (08:00)
 - [Assignment 3](Assignment_3/Exercise_Sheet_3.md) --- **Deadline:** Nov. 7 (08:00)
+- [Assignment 4](Assignment_4/Exercise_Sheet_4.md) --- **Deadline:** Nov. 15 (08:00)
