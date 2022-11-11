@@ -1,6 +1,7 @@
 # Exercise Sheet 4
 
-
+#### Submission: 
+The following exercise can be submitted as PDF file. No Jupyter Notebook file is required.
 
 ## Exercise 4.1 (6 points)
 
