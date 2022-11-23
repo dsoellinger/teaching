@@ -47,3 +47,4 @@ Please also name the group members in the submitted notebook.
 - [Assignment 3](Assignment_3/Exercise_Sheet_3.md) --- **Deadline:** Nov. 7 (08:00)
 - [Assignment 4](Assignment_4/Exercise_Sheet_4.md) --- **Deadline:** Nov. 15 (08:00)
 - [Assignment 5](Assignment_5/Exercise_Sheet_5.md) --- **Deadline:** Nov. 24 (08:00)
+- [Assignment 6](Assignment_6/Exercise_Sheet_6.md) --- **Deadline:** Dec. 01 (08:00)
