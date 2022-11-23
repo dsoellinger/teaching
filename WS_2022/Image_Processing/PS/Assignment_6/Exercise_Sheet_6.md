@@ -12,7 +12,7 @@ In this exercise, will will improve our understanding of the Fourier transform, 
 
 The Fourier coefficient(s) $\hat{f}(u)$ of a discrete 1-D signal $f(x)$ of length $N$ can be computed as follows:
 
-$\hat{f}(u) = \sum_{x=0}^{N-1} f(x) e^{-i2 \pi \frac{ux}{N}}$ 
+$\hat{f}(u) = \frac{1}{N}\sum_{x=0}^{N-1} f(x) e^{-i2 \pi \frac{ux}{N}}$ 
 
 where $u= 0,1,...,N-1$
 
