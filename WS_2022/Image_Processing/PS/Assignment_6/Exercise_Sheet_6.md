@@ -12,7 +12,7 @@ In this exercise, will will improve our understanding of the Fourier transform, 
 
 The Fourier coefficient(s) $\hat{f}(u)$ of a discrete 1-D signal $f(x)$ of length $N$ can be computed as follows:
 
-$\hat{f}(u) = \sum_{x=0}^{N-1} f(x) e^{-i2 \pi \frac{ux}{N}}$ 
+$\hat{f}(u) = \frac{1}{N}\sum_{x=0}^{N-1} f(x) e^{-i2 \pi \frac{ux}{N}}$ 
 
 where $u= 0,1,...,N-1$
 
@@ -30,7 +30,7 @@ where $x=0,1,...,N-1$
 
 Generate the signal $f(x)$ below which consists of multiple sin and cosine terms with different amplitudes. The sampling frequency $fs$ should be 500Hz (500 sample points/second). Sample points over two periods (N=1000)
 
-- $f(x) = 1.5 + 3\sin(2\pi*15*x) + \cos(2\pi*15*x) + 2 \sin(2\pi*30*x) + \sin(2\pi*50*x)$
+$f(x) = 1.5 + 3 \cdot \sin(2 \pi \cdot 15 \cdot x) + \cos(2\pi \cdot 15 \cdot x) + 2 \cdot \sin(2pi \cdot 30 \cdot x) + \sin(2\pi \cdot 50 \cdot x)$
 
 Finally, plot the generated signal.
 
