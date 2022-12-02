@@ -40,7 +40,7 @@ In this exercise you will implement and test various frequency-domain lowpass/hi
 
 In this exercise you will use the Short Time Frequency Transform (STFT) to analyze a signal.
 
-Load the signal (numpy array) contained in `signal.npy`. This can be achieved by running `np.load('signal.npy')`
+Load the signal (numpy array) contained in `signal.txt`. This can be achieved by running `np.loadtxt('signal.txt')`
 
 Now study the signal using the STFT (e.g., using `scipy.signal.stft`) which is composed of multiple sinusoids with different amplitudes/frequencies. The signal has been sampled with a sampling frequency of 1000 Hz.
 
