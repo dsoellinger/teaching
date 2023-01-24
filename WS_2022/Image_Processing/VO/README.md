@@ -6,13 +6,13 @@ Credit for the slides goes to [Christof Kauba](https://wavelab.at/member-ckauba.
 
 
 
-### ### Exam topics
+### Exam topics
 
 A list of topics which are relevant to the exam(s) can be found [here](!Exam_Topics.md).
 
 
 
-**Exam Dates:**
+###  Exam Dates
 
 - 1st Exam: 6th Feb, 2023 (10:00)
 - 2nd Exam: TBD (before easter)
