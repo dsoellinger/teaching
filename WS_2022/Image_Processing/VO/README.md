@@ -15,4 +15,4 @@ A list of topics which are relevant to the exam(s) can be found [here](!Exam_Top
 ###  Exam Dates
 
 - 1st Exam: 6th Feb, 2023 (10:00)
-- 2nd Exam: TBD (before easter)
+- 2nd Exam: 10th March, 2023 (13:00)
