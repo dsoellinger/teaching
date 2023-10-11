@@ -2,14 +2,15 @@
 
 ## Inhalt
 
-Der Kurs lehrt die praktischer Anwendung von unterschiedlichen Tools bzw. Techniken aus dem Bereich des Machine Learning anhand von 
+Der Kurs lehrt die praktischer Anwendung von unterschiedlichen Tools bzw. Techniken aus dem Bereich des Machine Learning anhand von
 praktischen Beispielen.
 
 ## Benotung
 
 Die Gesamtnote setzt sich aus zwei Teilen zusammen:
 
-- Ein schriftlichler Test während des Semesters
-- 2-3 größere Programmieraufgaben bei denen ML Model auf ein gegebenes Problem angewendet werden müssen.
+- Ein schriftlicher Test während des Semesters (dieser Test muss positiv sein [>50%]!)
+- 2 größere Programmieraufgaben bei denen ML Modelle auf ein gegebenes Problem angewendet werden müssen.
+- Die gemittelten Prozentwerte aus dem Test + 2 Programmieraufgaben ergeben die Gesamtnote.
 
 **Wichtig:** Es gilt in jeder Einheit Anwesenheitspflicht. Sie dürfen maximal in 4 Einheiten abwesend sein.
