@@ -14,3 +14,11 @@ Die Gesamtnote setzt sich aus zwei Teilen zusammen:
 - Die gemittelten Prozentwerte aus dem Test + 2 Programmieraufgaben ergeben die Gesamtnote.
 
 **Wichtig:** Es gilt in jeder Einheit Anwesenheitspflicht. Sie dürfen maximal in 4 Einheiten abwesend sein.
+
+## Literatur
+
+Die Kursinhalte stammen u.a. aus folgenden Bücher/Websites:
+
+- Grokking Machine Learning (Luis G. Serrano)
+- Hands-On Machine Learning with Scikit-Learn and TensorFlow (Aurelien Geron)
+- [http://neuralnetworksanddeeplearning.com/](http://neuralnetworksanddeeplearning.com/)
