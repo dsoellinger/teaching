@@ -6,7 +6,7 @@ Der Kurs lehrt die praktischer Anwendung von unterschiedlichen Tools bzw. Techni
 praktischen Beispielen.
 
 ## Assignments
-- Assignment 1: Available [here](assignments/Assignment1.md)
+- Assignment 1: Beschreibung [hier](assignments/Assignment1.md)
 
 
 ## Benotung
