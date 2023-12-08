@@ -26,7 +26,7 @@ Trainieren sie mind. 3 ML-Modellen (bspw. jene aus der VO). Die optimalen Hyperp
 (*) Diese Frage ist für alle tree-basierten Verfahren (Decision Trees, Random Forests, usw.) leicht zu beantworten. 
 
 
-### Infos zur Abgabe
+## Infos zur Abgabe
 Abgabeformat ist ein Jupyter-Notebook. Bitte das Jupyter-Notebook unbedingt im **ausgeführten Zustand**, so dass die Ergebnisse und Plots unmittelbar sichtbar sind und das Notebook nicht
 erst ausgeführt werden muss! Die Abgabe erfolgt über Gitlab Classroom (Details folgen).
 
