@@ -5,6 +5,10 @@
 Der Kurs lehrt die praktischer Anwendung von unterschiedlichen Tools bzw. Techniken aus dem Bereich des Machine Learning anhand von
 praktischen Beispielen.
 
+## Assignments
+- Assignment 1: Available [here](assignments/assignments/Assignment1.md)
+
+
 ## Benotung
 
 Die Gesamtnote setzt sich aus zwei Teilen zusammen:
