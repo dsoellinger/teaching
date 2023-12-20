@@ -13,13 +13,13 @@ Um diese Frage zu beantworten könnten bspw. folgende Aspekte interessant sein?
 
 - Wie viele Passagiere waren an Board? Wie groß ist der Anteil der Personen welche überlebt haben?
 - Gibt es eine Korrelation (und ggf. kausalen Zusammenhang) zwischen der Überlebenschance und Eigenschaften wie Alter, Geschlecht, etc.?
-- Welchen Einfluss hatten Faktoren wie die Reiseklasse, Familiengröße, der Einschiffungszeitpunkt?
-- Welche Kombination von Eigenschaften besaß die höchste Überlebenschance? Sprich, in welcher Gruppe hätten wir uns gerne zugeordnet?
+- Welchen Einfluss hatten Faktoren wie die Reiseklasse, Familiengröße, der Einschiffungszeitpunkt, usw.?
+- Welche Kombination von Eigenschaften besaß die höchste Überlebenschance?
 
 
 ## Teil 2 - Training und Evaluation 
 
-Trainieren sie mind. 3 ML-Modellen (bspw. jene aus der VO). Die optimalen Hyperparameter sollen mittels k-Fold Cross-Validation und einer "Grid Seach" bestimmt werden.
+Trainieren sie mind. 3 ML-Modellen (bspw. jene aus der VO). Die optimalen Hyperparameter sollen mittels k-Fold Cross-Validation und einer "Grid Search" bestimmt werden.
 - Welches Modell erzielt die beste Vorhersagegenauigkeit? 
 - Was sind die aus der Sicht des Modells relevanten Features und deckt sich dies mit der zuvor durchgeführten Analyse? (*) 
 
