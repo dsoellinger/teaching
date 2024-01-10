@@ -27,8 +27,11 @@ Trainieren sie mind. 3 ML-Modellen (bspw. jene aus der VO). Die optimalen Hyperp
 
 
 ## Infos zur Abgabe
-Abgabeformat ist ein Jupyter-Notebook. Bitte das Jupyter-Notebook unbedingt im **ausgeführten Zustand**, so dass die Ergebnisse und Plots unmittelbar sichtbar sind und das Notebook nicht
-erst ausgeführt werden muss! Die Abgabe erfolgt über Gitlab Classroom (Details folgen).
+Die Abgabe erfolgt über Github Classroom. Hierzu dem folgenden Link folgen und entsprechend den Instruktionen ein Team auswählen/erstellen.
+Es wird dann automatisch ein Repository erstellt in dem die Aufgabe bearbeitet werden kann. Bitte die Instruktionen im Readme-File für die Namenskonvention beachten. 
+
+Invite-Link: https://classroom.github.com/a/NaUZE3z9
+
 
 **Deadline:** 10. Jänner 2024 (23:59)
  
