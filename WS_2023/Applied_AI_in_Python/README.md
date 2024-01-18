@@ -7,7 +7,7 @@ praktischen Beispielen.
 
 ## Assignments
 - Assignment 1: Beschreibung [hier](assignments/Assignment1.md)
-
+- Assignment 2: Beschreibung [hier](assignments/Assignment2.md)
 
 ## Benotung
 
