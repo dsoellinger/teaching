@@ -12,7 +12,7 @@ Das Netz soll zunächst auf einem zufällig gewählten Teil der Daten trainiert 
 ## Infos zur Abgabe
 - Abgabe wieder wie zuletzt über Google Classroom als Jupyter Notebook
 
-Invite-Link: https://classroom.github.com/a/W4BYlgDO
+Invite-Link: https://classroom.github.com/a/o4lOEgsc
 
 **Deadline:** 25. Februar 2024 (23:59)
  
