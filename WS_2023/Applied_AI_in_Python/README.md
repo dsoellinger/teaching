@@ -19,6 +19,18 @@ Die Gesamtnote setzt sich aus zwei Teilen zusammen:
 
 **Wichtig:** Es gilt in jeder Einheit Anwesenheitspflicht. Sie dürfen maximal in 4 Einheiten abwesend sein.
 
+#### Noten-Skala zur Berechnung der Endnote:
+- 100% bis >92% ==> 1
+- 92% bis >78% ==> 2
+- 78% bis >64% ==> 3
+- 64% bis >50% ==> 4
+- <50% ==> 5
+
+Berechnungsbeispiel: Test: 17/24 Pkt / Assignment 1: 4/5 Pkt / Assignment 2: 5/5 Pkt
+==> ((17/24) + (4/5) + (5/5)) / 3 = 83,6% ==> Note: 2
+
+***Anmerkung: Die Assignment-Punkte sind im Feedback-Branch des jeweiligen Assignments in Github nachzulesen.***
+
 ## Literatur
 
 Die Kursinhalte stammen u.a. aus folgenden Bücher/Websites:
